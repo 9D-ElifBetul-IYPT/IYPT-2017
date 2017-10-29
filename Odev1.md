@@ -12,10 +12,16 @@ Sınıf | Öğrenci İsmi  | Numara
 Bizim projemiz "Chocolate hysteresis" yani Türkçe adıyla "Çikolata histerezis
 Bu projede Çikolata eritildikten sonra erimiş ve katı hallerinin sıcaklıklarında bazı değişimler olduğunu araştıracağız.Ve bizim yapmamız gereken çikolata katılaşıncaki sıcaklığını bulmak ve parametrelerini incelemek. Bu deneyde çikolatanın vücut sıcaklığında erimesi ve eridikten sonra oda sıcaklığında katı hale dönmesi gerekirken sıvı kalması gerektiğini bulacağız.Bunun için de bir deney yapacağız.Bu deney kısaca şöyle olacak:Katı çikolatayı (modlen bitter çikolata) ufak parçalara ayırıp cam bir kap içerisine koyacağız ve benmari usulü bu çikolata parçalarını eriteceğiz.Bunu yaparken çikolataya (cam kaba değil özellikle çikolataya) termometre yerleştireceğiz. 36°'de (insanın ortalama vücut sıcaklığını biraz altı) ocağın altını kapatacağız.Ve bu sıcaklıktaki çikolatanın durumunu not edeceğiz.Daha sonra tam vücut sıcaklığında erime olup olmadığını gözlemleyeceğiz.Son olarak erimiş çikolatayı oda sıcaklığına döndüreceğiz.Böylece Çikolatanın sıcaklığını dakika dakika not edeceğiz ve donma anını özellikle kaydedeceğiz.Termometredeki sıcaklığın değişmeden sabitlendiği sıcaklık değeri katılaştığı anı vereceği için çikolatanın katı haldeki sıcaklığını tespit etmiş olacağız.Böylece bizden isteneni yani hem katı hem de erimiş olduğu sıcaklık aralığını bulmuş ve sıcaklık parametrelerini araştırmış olacağız.Yani kısaca:Kontrol grubu olan Katı çikolatanın ve deney grubu olan, vücut sıcaklığında eritilmiş bir çikolatanın var olabileceği sıcaklık aralıklarını karşılaştıracağız. Daha sonra erimiş çikolatayı tekrar oda sıcaklığına döndürüp, ne gibi değişikler olduğunu gözlemleyeceğiz
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+1)Savina Radosavlijevic and Anna Schlunk . Melting Chocolate (The University of Sydney,2000), https://www.scribd.com/document/49520732/chocolate
+2)How to melt and temper chocolate (youtube.com,from Howdiniguru, 24.02.2009)
+http://youtu.be/bDcF7nJbF04
+3)Benmari Usulu Çikolata eritmek (#mucizelezzetler) https://m.youtube.com/watch?v=ISkvx0uaLv0 
+4)Vikipedi:Çikolata https://tr.m.0wikipedia.org/wiki/Çikolata
+5)Vikipedi:Sıcak Çikolata https://tr.m.0wikipedia.org/index.php?q=aHR0cHM6Ly90ci5tLndpa2lwZWRpYS5vcmcvd2lraS9TxLFjYWtfw6dpa29sYXRh
+6)Nestle Çikolatam.com:Çikolata Türleri http://www.cikolatam.com/cikolata-tarifleri/#top
+7)Wikipedia:Types of Chocolate https://en.m.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi5tLndpa2lwZWRpYS5vcmcvd2lraS9UeXBlc19vZl9jaG9jb2xhdGU
+8)Vikipedi:İnsan vücut sıcaklığı https://tr.m.0wikipedia.org/wiki/İnsan_vücut_sıcaklığı
+9)Vikipedi:Oda Sıcaklığı https://tr.m.0wikipedia.org/index.php?q=aHR0cHM6Ly90ci5tLndpa2lwZWRpYS5vcmcvd2lraS9PZGFfc8SxY2FrbMSxxJ_EsQ
+10)Wikipedia:Chocolate Bloom https://en.m.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi5tLndpa2lwZWRpYS5vcmcvd2lraS9DaG9jb2xhdGVfYmxvb20 
+11) http://www.acikbilim.com/2013/05/genel/cikolata-tanrilarin-yiyecegi.html
 
